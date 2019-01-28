@@ -1,0 +1,11 @@
+{
+  "name": "dvirs-coffee",
+  "version": "1.0.0",
+  "description": "dvirs-coffee is a Stitch app for our great WeWork barista",
+  "main": "index.js",
+  "scripts": {
+    "test": "react-scripts run test"
+  },
+  "author": "pavel.duchovny@mongodb.com",
+  "license": "ISC"
+}
